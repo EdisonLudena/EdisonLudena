@@ -65,12 +65,11 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 ##  Mis estadísticas en GitHub
 
 <div align="center">
-  <a href="https://github.com/EdisonLudena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdisonLudena&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&border_color=38BDF8&hide_border=false" />
-  </a>
-  <a href="https://github.com/EdisonLudena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLudena&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&border_color=38BDF8&hide_border=false" />
-  </a>
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EdisonLudena&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&border_color=38BDF8)](https://github.com/EdisonLudena)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLudena&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&border_color=38BDF8)](https://github.com/EdisonLudena)
+
 </div>
 
 ---
