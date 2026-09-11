@@ -65,11 +65,9 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 ##  Mis estadísticas en GitHub
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdisonLudena&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&border_color=38BDF8&hide_border=false&cache_seconds=86400" alt="EdisonLudena's GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLudena&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&border_color=38BDF8&hide_border=false&cache_seconds=86400" alt="Top Languages" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EdisonLudena&theme=tokyonight&border_color=38BDF8&background=0D1117&ring=38BDF8&fire=FB7185&currStreakNum=FFFFFF)](https://github.com/EdisonLudena)
+
 </div>
 
 ---
