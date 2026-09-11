@@ -15,17 +15,17 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema Full-Stack. Disfruto diseñando arquitecturas robustas en el backend y creando interfaces interactivas para plataformas web y móviles. Mi perfil se caracteriza por la adaptabilidad; me gusta explorar nuevas tecnologías y aplicarlas en proyectos funcionales.
 
-- 🚀 Actualmente combinando el desarrollo de proyectos Full-Stack (Python/Django) con la enseñanza de fundamentos de programación web.
-- 💡 Fuerte enfoque en el autoaprendizaje y la resolución práctica de problemas.
-- 💬 Pregúntame sobre **Python, Django, bases de datos o desarrollo con Kotlin/Flutter.**
+-  Actualmente combinando el desarrollo de proyectos Full-Stack (Python/Django) con la enseñanza de fundamentos de programación web.
+-  Fuerte enfoque en el autoaprendizaje y la resolución práctica de problemas.
+-  Pregúntame sobre **Python, Django, bases de datos o desarrollo con Kotlin/Flutter.**
 
 ---
 
-## ⚙️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 
 ---
 
-## 📜 Educación y Certificaciones
+##  Educación y Certificaciones
 
 - **Tecnología en Desarrollo de Software** – Universidad Tecnológica Equinoccial (UTE)
 - **Instructor de Programación Web y ERP** – Plataforma Gesco
@@ -62,7 +62,7 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 
 ---
 
-## 🤝 Contacto
+##  Contacto
 
 <div align="center">
 
