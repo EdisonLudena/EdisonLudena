@@ -17,11 +17,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy Tecnólogo en Desarrollo de Software e Instructor Técnico. Me especializo en el ecosistema Full-Stack, diseñando arquitecturas robustas en el backend e interfaces interactivas en el frontend y móvil. Combino el desarrollo activo de software con la docencia, facilitando el aprendizaje de tecnologías web y entornos empresariales. 
+Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema Full-Stack. Disfruto diseñando arquitecturas robustas en el backend y creando interfaces interactivas para plataformas web y móviles. Mi perfil se caracteriza por la adaptabilidad; me gusta explorar nuevas tecnologías y aplicarlas en proyectos funcionales.
 
-- 🚀 Actualmente construyendo integraciones con IA (Gemini API), aplicaciones móviles nativas/multiplataforma y módulos personalizados para ERP.
-- 💡 Fuerte enfoque en el autoaprendizaje y la resolución de problemas.
-- 💬 Pregúntame sobre **Python, Django, Kotlin, Laravel o despliegues en Linux.**
+- 🚀 Actualmente desarrollando plataformas de gestión y módulos personalizados para entornos ERP (Odoo).
+- 💡 Fuerte enfoque en el autoaprendizaje y la resolución práctica de problemas.
+- 💬 Pregúntame sobre **Python, Django, bases de datos o desarrollo con Kotlin/Flutter.**
 
 ---
 
@@ -47,10 +47,9 @@ Soy Tecnólogo en Desarrollo de Software e Instructor Técnico. Me especializo e
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **FutbolPulse & FutbolApp** | Plataformas de estadísticas deportivas y gestión de ligas. Backend robusto con serializadores personalizados y consumo desde aplicaciones móviles nativas e interfaces web. | `Django REST` `Kotlin (Jetpack Compose)` `Flutter` `React` |
-| **Integración AI (Feximar)** | Asistente conversacional de atención al cliente integrado en un catálogo de productos para respuestas dinámicas utilizando la API de Google Gemini. | `Laravel` `Blade` `Gemini API` |
-| **Módulos ERP (Odoo 19)** | Desarrollo de módulos personalizados para automatizar flujos empresariales, incluyendo pipelines Kanban, cron jobs y alertas de inventario. | `Python` `Odoo 19` `XML` |
-| **Código Origen** | Videojuego educativo 2D centrado en mecánicas de matemáticas y lógica de niveles, con físicas de jugador personalizadas. | `Godot Engine` `GDScript` |
+| **Plataformas Deportivas (FutbolPulse/App)** | Desarrollo de un backend robusto para la gestión de estadísticas deportivas y serialización de datos, consumido a través de interfaces móviles y web. | `Django REST` `Kotlin` `Flutter` `React` |
+| **Módulos ERP (Odoo 19)** | Estructuración de módulos personalizados para flujos empresariales, configurando vistas XML, tareas automatizadas y control de inventario. | `Python` `Odoo 19` `XML` |
+| **Código Origen** | Videojuego educativo 2D desarrollado desde cero, aplicando lógica de niveles, físicas personalizadas y mecánicas de matemáticas. | `Godot Engine` `GDScript` |
 
 ---
 
@@ -66,8 +65,12 @@ Soy Tecnólogo en Desarrollo de Software e Instructor Técnico. Me especializo e
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonLudena&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&border_color=38BDF8&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLudena&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&border_color=38BDF8&hide_border=false" />
+  <a href="https://github.com/EdisonLudena">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdisonLudena&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&border_color=38BDF8&hide_border=false" />
+  </a>
+  <a href="https://github.com/EdisonLudena">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLudena&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&border_color=38BDF8&hide_border=false" />
+  </a>
 </div>
 
 ---
@@ -77,7 +80,7 @@ Soy Tecnólogo en Desarrollo de Software e Instructor Técnico. Me especializo e
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-edison.ludena.wlq%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison.ludena.wlq@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edison_Ludeña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-lude%C3%B1a-4080b5332/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edison_Ludeña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edisonludena)
 [![GitHub](https://img.shields.io/badge/GitHub-EdisonLudena-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdisonLudena)
 
 <br>
