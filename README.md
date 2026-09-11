@@ -2,7 +2,7 @@
 
 # Edison Ludeña | Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&width=800&lines=Software+Developer+%7C+Tech+Educator;Python%2C+Django%2C+Kotlin%2C+React;Integrating+AI+%26+Building+ERP+Solutions;Building+cool+projects+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&width=800&lines=Software+Developer+%7C+Tech+Educator;Python%2C+Django%2C+Kotlin%2C+React;Integrating+AI+%26+Building+Scalable+Solutions;Building+cool+projects+with+code)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJscG90c2xzMDJvY242MjhkdG85MWV1Ymt5ZmExZjBnYXdmaGdiaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="260" />
 
@@ -15,17 +15,17 @@
 
 ---
 
-##  Sobre mí
+## 👨‍💻 Sobre mí
 
 Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema Full-Stack. Disfruto diseñando arquitecturas robustas en el backend y creando interfaces interactivas para plataformas web y móviles. Mi perfil se caracteriza por la adaptabilidad; me gusta explorar nuevas tecnologías y aplicarlas en proyectos funcionales.
 
--  Actualmente combinando el desarrollo de proyectos Full-Stack (Python/Django) con la enseñanza de fundamentos de programación web.
--  Fuerte enfoque en el autoaprendizaje y la resolución práctica de problemas.
--  Pregúntame sobre **Python, Django, bases de datos o desarrollo con Kotlin/Flutter.**
+- 🚀 Actualmente combinando el desarrollo de proyectos Full-Stack (Python/Django) con la enseñanza de fundamentos de programación web.
+- 💡 Fuerte enfoque en el autoaprendizaje y la resolución práctica de problemas.
+- 💬 Pregúntame sobre **Python, Django, bases de datos o desarrollo con Kotlin/Flutter.**
 
 ---
 
-##  Tecnologías y Herramientas
+## ⚙️ Tecnologías y Herramientas
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 
 ---
 
-##  Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 
 ---
 
-##  Educación y Certificaciones
+## 📜 Educación y Certificaciones
 
 - **Tecnología en Desarrollo de Software** – Universidad Tecnológica Equinoccial (UTE)
 - **Instructor de Programación Web y ERP** – Plataforma Gesco
@@ -62,17 +62,7 @@ Soy Tecnólogo en Desarrollo de Software con un sólido enfoque en el ecosistema
 
 ---
 
-##  Mis estadísticas en GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EdisonLudena&theme=tokyonight&border_color=38BDF8&background=0D1117&ring=38BDF8&fire=FB7185&currStreakNum=FFFFFF)](https://github.com/EdisonLudena)
-
-</div>
-
----
-
-##  Contacto
+## 🤝 Contacto
 
 <div align="center">
 
